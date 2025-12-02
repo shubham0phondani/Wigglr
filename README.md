@@ -1,4 +1,4 @@
-## Wigglr — What it is
+## Wigglr 
 
 Wigglr is a dynamic, media-rich platform that lets users **discover, share, and embed** animated GIFs, stickers, and short looping media — in chats, social media, blogs, or web projects.  
 
